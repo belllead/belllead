@@ -43,8 +43,8 @@
 
 ### Design
 <div>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
   <img src="https://img.shields.io/badge/Protopie-FF6661?style=flat-square&logo=Protopie&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat-square&logo=rhinoceros&logoColor=white"/>
