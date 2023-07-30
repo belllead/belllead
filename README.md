@@ -1,3 +1,14 @@
+## 🏫 Education
+| 기간 | 과정명 | 상태 |
+|---|---|---|
+| 2016.03 ~ 2023.02 | 고려대학교 사회학과 / 산업정보디자인 | 졸업 |
+| 2022.09 ~ 2022.12 | 고려대학교 지능정보SW아카데미 | 수료 |
+| 2023.01 ~ | 삼성청년SW아카데미(SSAFY) | 진행 중 |
+
+<br>
+<br>
+
+
 ## 💻 Skillset
 
 ### Backend
@@ -60,9 +71,12 @@ Email : sociojs85@gmail.com
 <br>
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=belllead)](https://solved.ac/belllead/)
+### Github Stats
 <img src="https://myreadme.vercel.app/api/embed/belllead?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+
+### Baekjoon Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=belllead)](https://solved.ac/belllead/)
 
 <!--
 ![rt3310's github stats](https://github-readme-stats.vercel.app/api?username=belllead&show_icons=true&theme=merko)
